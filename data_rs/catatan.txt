@@ -1,0 +1,22 @@
+TIPE A
+rumah sakit tipe A adalah jenis rumah sakit dengan pelayanan kesehatan pusat.
+Artinya, rumah sakit tipe A merupakan rujukan tertinggi (top referral hospital) bagi peserta BPJS dan pasien lainnya.
+Biasanya, rumah sakit tipe A memiliki pelayanan yang lebih lengkap dibandingkan dengan tipe rumah sakit lainnya
+
+TIPE B
+rumah sakit tipe B memiliki pelayanan kedokteran medis spesialis luas hingga sub-spesialis lebih terbatas.
+Biasanya, rumah sakit tipe B juga dijadikan rujukan di rumah sakit kabupaten.
+Umumnya, rumah sakit tipe B ada di setiap ibukota provinsi.
+Artinya, jika ada rujukan dari rumah sakit kabupaten, maka peserta BPJS bisa berobat ke rumah sakit tipe B
+
+TIPE C
+rumah sakit tipe C biasa disebut fasilitas kesehatan (faskes) tingkat dua.
+Rumah sakit ini menyediakan pelayanan kesehatan dari kedokteran sub-spesialis namun lebih terbatas.
+Contohnya, rumah sakit tipe C hanya menyediakan layanan sub-spesialis untuk kesehatan anak, kebidanan, penyakit dalam, kebidanan & kandungan, serta bedah saja.
+Biasanya, rumah sakit tipe C menjadi rujukan dari faskes tingkat 1 setingkat puskesmas, dokter pribadi, atau poliklinik
+
+TIPE D
+rumah sakit tipe D merupakan rumah sakit transisi atau sementara.
+Umumnya, pasien baik peserta BPJS maupun umum bisa dirujuk ke sini setelah memeriksakan diri ke puskesmas.
+Namun ketika kondisi medis pasien memerlukan penanganan lebih lanjut, maka perlu surat rujukan ke rumah sakit tipe C
+
