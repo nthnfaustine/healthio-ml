@@ -57,4 +57,8 @@ After validating the picture taken, we crop the necessary part of the picture an
     <td><img src="screenshots/camera_hasil.jpg" width=270 height=480></td>
   </tr>
 </table>
-When we got the RS name, we make a new intent to that RS
+When we got the RS name, we make a new intent to that RS. Then, the rest of the system is similar with ordering RS manually
+<br>
+Further information about the application:
+<br>
+https://github.com/jonathanSendiko/bangkit-capstone-healthio
