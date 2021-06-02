@@ -14,7 +14,7 @@ But mostly from: http://sirs.yankes.kemkes.go.id/fo/home/akreditasi
 <br>
 We only use hospitals around Jakarta for efficiency purpose. Then, the CSVs is merged into one large dataset and converted to JSON for Firebase
 <br>
-<img src="screenshots/dataset.png" width=640 height=480>
+<img src="screenshots/dataset.png" width=1280 height=360>
 
 ## Surat Rujukan BPJS Validation
 For this validation, we use binary classification method to validate if the picture taken is a real BPJS form or not
@@ -24,7 +24,7 @@ The data for this validation is mostly from Google Image and random image genera
 ### 2. Training the model
 To feed the images into the model, we use ImageDataGenerator from Tensorflow and we use transfer learning to make the training easier. However, the exported tflite model is too big and we made our own sequential model with four pairs of Conv2D and max_pooling layers and two dense layers with 512 units and 2 units for the output
 <br>
-<img src="screenshots/model_summary.png" width=640 height=360>
+<img src="screenshots/model_summary.png" width=480 height=480>
 <br>
 We train the model with adam optimizer and categorical_entropy loss for 10 epochs. The accuracy and loss for training and validation can be seen below
 <table>
